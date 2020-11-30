@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-fafeawhsxfcvaryhrts
-=======
-aaaaaaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbb
-1234567897
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
->>>>>>> aaf6a155601e41c6a497567d18fbec42803405c9
+aaaaaaaaaaaaaaaaaaaaaaaaaaaa
